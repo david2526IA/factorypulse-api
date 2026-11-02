@@ -69,4 +69,4 @@ This repository is a portfolio/reference API. A production implementation needs 
 
 ## License
 
-MIT © 2026 David Falcon
+MIT © 2026 David
